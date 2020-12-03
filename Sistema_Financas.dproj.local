@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/11/20 17:51:55.000.059,=C:\Users\laris\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/20 17:57:50.000.940,C:\Users\laris\Desktop\Estil\Curso Delphi\Treinemento\Sistema\UnitPrincipal.pas=C:\Users\laris\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/20 17:57:50.000.940,C:\Users\laris\Desktop\Estil\Curso Delphi\Treinemento\Sistema\UnitPrincipal.dfm=C:\Users\laris\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/11/20 17:58:28.000.170,C:\Users\laris\Desktop\Estil\Curso Delphi\Treinemento\Sistema\Sistema_Financas.dproj=C:\Users\laris\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/11/22 12:58:38.000.093,=C:\Users\laris\Desktop\Estil\Curso Delphi\Treinemento\Sistema\Unit1.pas</Transaction>
+    <Transaction>2020/11/22 12:59:07.000.893,C:\Users\laris\Desktop\Estil\Curso Delphi\Treinemento\Sistema\Unit1.pas=C:\Users\laris\Desktop\Estil\Curso Delphi\Treinemento\Sistema\ModConexao.pas</Transaction>
+    <Transaction>2020/11/22 12:59:07.000.893,C:\Users\laris\Desktop\Estil\Curso Delphi\Treinemento\Sistema\Unit1.dfm=C:\Users\laris\Desktop\Estil\Curso Delphi\Treinemento\Sistema\ModConexao.dfm</Transaction>
+    <Transaction>2020/11/22 14:07:52.000.246,=C:\Users\laris\Desktop\Estil\Curso Delphi\Treinemento\Sistema\Unit1.pas</Transaction>
+    <Transaction>2020/11/22 14:08:53.000.258,C:\Users\laris\Desktop\Estil\Curso Delphi\Treinemento\Sistema\Unit1.pas=C:\Users\laris\Desktop\Estil\Curso Delphi\Treinemento\Sistema\view\ufrmCadastroBasico.pas</Transaction>
+    <Transaction>2020/11/22 14:08:53.000.258,C:\Users\laris\Desktop\Estil\Curso Delphi\Treinemento\Sistema\Unit1.dfm=C:\Users\laris\Desktop\Estil\Curso Delphi\Treinemento\Sistema\view\ufrmCadastroBasico.dfm</Transaction>
+    <Transaction>2020/11/26 12:08:06.000.289,=C:\Users\laris\Desktop\Estil\Curso Delphi\Treinemento\Sistema\Unit1.pas</Transaction>
+    <Transaction>2020/11/26 12:57:21.000.868,=C:\Users\laris\Desktop\Estil\Curso Delphi\Treinemento\Sistema\Unit1.pas</Transaction>
+    <Transaction>2020/11/26 13:04:57.000.705,C:\Users\laris\Desktop\Estil\Curso Delphi\Treinemento\Sistema\view\ufrmCadastroUsuarios.pas=C:\Users\laris\Desktop\Estil\Curso Delphi\Treinemento\Sistema\Unit1.pas</Transaction>
+    <Transaction>2020/11/26 13:04:57.000.705,C:\Users\laris\Desktop\Estil\Curso Delphi\Treinemento\Sistema\view\ufrmCadastroUsuarios.dfm=C:\Users\laris\Desktop\Estil\Curso Delphi\Treinemento\Sistema\Unit1.dfm</Transaction>
+    <Transaction>2020/11/28 14:53:13.000.930,=C:\Users\laris\Desktop\Estil\Curso Delphi\Treinemento\Sistema\Unit1.pas</Transaction>
+    <Transaction>2020/11/28 14:54:00.000.113,C:\Users\laris\Desktop\Estil\Curso Delphi\Treinemento\Sistema\Unit1.pas=C:\Users\laris\Desktop\Estil\Curso Delphi\Treinemento\Sistema\classes\UnitFuncoes.pas</Transaction>
+    <Transaction>2020/12/02 14:13:34.000.141,=C:\Users\laris\Desktop\Estil\Curso Delphi\Treinemento\Sistema\Unit1.pas</Transaction>
+    <Transaction>2020/12/02 14:14:29.000.657,C:\Users\laris\Desktop\Estil\Curso Delphi\Treinemento\Sistema\view\ufrmCadastroCaixa.pas=C:\Users\laris\Desktop\Estil\Curso Delphi\Treinemento\Sistema\Unit1.pas</Transaction>
+    <Transaction>2020/12/02 14:14:29.000.657,C:\Users\laris\Desktop\Estil\Curso Delphi\Treinemento\Sistema\view\ufrmCadastroCaixa.dfm=C:\Users\laris\Desktop\Estil\Curso Delphi\Treinemento\Sistema\Unit1.dfm</Transaction>
+    <Transaction>2020/12/02 17:23:17.000.635,=C:\Users\laris\Desktop\Estil\Curso Delphi\Treinemento\Sistema\Unit1.pas</Transaction>
+    <Transaction>2020/12/02 17:23:53.000.658,C:\Users\laris\Desktop\Estil\Curso Delphi\Treinemento\Sistema\view\ufrmCadastroContasPagar.pas=C:\Users\laris\Desktop\Estil\Curso Delphi\Treinemento\Sistema\Unit1.pas</Transaction>
+    <Transaction>2020/12/02 17:23:53.000.658,C:\Users\laris\Desktop\Estil\Curso Delphi\Treinemento\Sistema\view\ufrmCadastroContasPagar.dfm=C:\Users\laris\Desktop\Estil\Curso Delphi\Treinemento\Sistema\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
